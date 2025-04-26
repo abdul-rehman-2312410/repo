@@ -1,4 +1,4 @@
 # repo
 
-This is  my Portfolio 
+This is  my portfolio 
 
